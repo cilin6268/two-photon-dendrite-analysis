@@ -1,0 +1,15 @@
+.DS_Store
+
+# Keep recordings and generated analyses out of source control.
+*.tif
+*.tiff
+*.avi
+*.mp4
+/two_photon_imaging/extract_*/
+/two_photon_imaging/registered_crop_centerReg/
+/two_photon_imaging/ROI_detection/
+/two_photon_imaging/Segmentation/
+/two_photon_imaging/StimTiming/
+/behavior/*.mat
+/behavior/*.png
+/behavior/*.fig
